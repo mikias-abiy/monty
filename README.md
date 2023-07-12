@@ -150,7 +150,4 @@ Here is a complete list of monty commands/operators.
 
 ## Authors
 * [Emebet Worku](mailto:emuyoha21@gmail.com) : [@emutialx](https://github.com/emutialx/)
-* [Mikias Abiy](mailto:mikiasabiy16@gmail.com) : [@miiki00](https://github.com/miiki00/)
-
-
-### Thankyou for visiting !!!
+* [Mikias Abiy](mailto:mikias_abiy@proton.me) : [@miiki00](https://github.com/mikias-abiy/)
