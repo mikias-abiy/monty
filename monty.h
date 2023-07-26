@@ -61,12 +61,12 @@ typedef struct opcode_info
 } opcode_i;
 
 /* local library headers */
-#include "m_opcode.h"
-#include "m_error.h"
-#include "m_memory.h"
-#include "m_string.h"
-#include "m_exec_opcode.h"
-#include "m_stack_func.h"
+#include "m_headers/m_opcode.h"
+#include "m_headers/m_error.h"
+#include "m_headers/m_memory.h"
+#include "m_headers/m_string.h"
+#include "m_headers/m_exec_opcode.h"
+#include "m_headers/m_stack_func.h"
 
 /* function declarations */
 void check_main_args(int ac, char **av);
